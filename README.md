@@ -1,3 +1,1 @@
-# web-technologies
-
-Пройшовши невеличкий курс на сайті https://learngitbranching.js.org я дізнався багато нової інформації та отримав інструкції як користуватисяч Git
+I've just finished the course and i find it really useful and maybe it will help me in the future 
